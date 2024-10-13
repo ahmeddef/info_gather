@@ -1,7 +1,7 @@
 
 
 to use the Script :  
-chmod +x info_gather.sh \n
+chmod +x info_gather.sh .
 sudo bash info_gather.sh example.com
 
 pleas check if you installed
